@@ -1,4 +1,3 @@
-"# android-beacon-scanner-mqtt-publish" 
 react github url :  https://github.com/Erfanemoon/react-native-mqtt-rest
 
 nodejs server github url : https://github.com/Erfanemoon/iot-mqtt-restservice-backend
